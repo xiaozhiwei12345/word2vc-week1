@@ -9,3 +9,5 @@
 import test
 
 print(test.A)
+
+print(test.B)
